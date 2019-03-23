@@ -1,0 +1,37 @@
+* {
+	background-color: black;
+    font-family: 'Monoton', cursive;
+}
+
+#defaultCanvas0 {
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#linkEntry {
+	font-size: 60px;
+	color: rgb(209, 139, 0);
+	position: fixed;
+    top: 80%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#linkEntry a {
+    text-decoration: none;
+    text-decoration-line: none;
+}
+
+#linkEntry a:hover {
+	color: rgb(209, 139, 0);
+
+}
+
+#linkEntry a:link {
+	color: rgb(209, 139, 0);
+
+}
